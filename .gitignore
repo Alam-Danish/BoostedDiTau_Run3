@@ -1,0 +1,11 @@
+*.py~
+*.py#
+*.txt~
+*.txt#
+*.root
+*.cc~
+*.h~
+*.Log
+*.stderr
+*.stdout
+
